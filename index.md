@@ -1,12 +1,13 @@
-## Welcome to Jumping Ball
+## Project Description
 
-### Project Description
+
 
 โครงงานนี้เราทำเกี่ยวกับ Microcontroller โดยจัดทำเป็นเกมส์ที่ใช้ไมโครคอนโทรลเลอร์ (Micro-controller) ในการทำ และใช้ตัว LED Dot Matrix เป็นตัวแสดงผลออกมาพัฒนามาจากเกมส์ Cookie Run และนำมาผสมผสานความคิดสร้างสรรค์ของผู้จัดทำ โดยตัวเกมส์จะแสดงผลออกมาเป็นไฟ LED ของ LED Dot Matrix มีปุ่มคอนโทรลให้เดินหน้า ถอยหลัง กระโดด จะมีสิ่งกีดขวางที่ผู้เล่นจะต้องหลบหลีก ระหว่างทาง เพื่อให้ผู้เล่นจะได้ไม่เบื่อในการเล่นเกมส์ และเพื่อความสนุกสนานของผู้เล่นอีกด้วย
 
-### Markdown
+## Project Description
+### Source Code
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 
 ```markdown
 Syntax highlighted code block
